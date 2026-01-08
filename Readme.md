@@ -8,7 +8,7 @@ All explanations, assumptions, and design decisions are documented clearly.
 ---
 
 ## 📂 Repository Structure
-
+```
 stockflow-backend-case-study/
 │
 ├── README.md
@@ -24,7 +24,7 @@ stockflow-backend-case-study/
 ├── part3/
 │ ├── low_stock_endpoint.py
 │ └── explanation.md
-
+```
 
 
 Each folder corresponds directly to a section of the case study.
