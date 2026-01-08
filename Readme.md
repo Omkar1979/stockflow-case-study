@@ -9,7 +9,7 @@ All explanations, assumptions, and design decisions are documented clearly.
 
 ## 📂 Repository Structure
 ```
-stockflow-backend-case-study/
+stockflow-case-study/
 │
 ├── README.md
 │
@@ -33,7 +33,7 @@ Each folder corresponds directly to a section of the case study.
 
 ## 🧩 Part 1: Code Review & Debugging
 
-**Folder:** `part1_code_review/`
+**Folder:** `part1/`
 
 ### Objective
 Review an existing API endpoint for creating products and inventory, identify issues, explain their production impact, and provide a corrected version.
@@ -99,7 +99,7 @@ Key improvements:
 
 ## 🗄️ Part 2: Database Design
 
-**Folder:** `part2_database_design/`
+**Folder:** `part2/`
 
 ### Objective
 Design a scalable and flexible database schema based on incomplete requirements.
@@ -160,7 +160,7 @@ Questions raised for the product team include:
 
 ## 🚨 Part 3: Low-Stock Alerts API
 
-**Folder:** `part3_low_stock_api/`
+**Folder:** `part3/`
 
 ### Objective
 Implement an API endpoint that returns low-stock alerts for a company while handling real-world business constraints.
@@ -236,10 +236,7 @@ This repository demonstrates:
 
 ---
 
-## 📎 Submission Note
 
-This repository is submitted as the **Case Study Solution Repository URL** as required in the internship application.
 
----
 
 ## 🙏 Thank You
